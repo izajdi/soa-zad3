@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csvpls:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csvpls_jar</output-path>
+    <root id="archive" name="csvpls.jar">
+      <element id="module-output" name="csvpls" />
+    </root>
+  </artifact>
+</component>
